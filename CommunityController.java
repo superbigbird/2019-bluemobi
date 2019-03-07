@@ -32,6 +32,8 @@ import cn.bluemobi.service.AppCommunityService;
  * @see
  */
  //王二麻子到此一游
+
+//李四到此一游
 @Controller
 @RequestMapping("/app/community")
 public class CommunityController extends AppController {
